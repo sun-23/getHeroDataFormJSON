@@ -12,6 +12,7 @@
 		A410D48A22733BC2000A0FEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A410D48822733BC2000A0FEF /* Main.storyboard */; };
 		A410D48C22733BC3000A0FEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A410D48B22733BC3000A0FEF /* Assets.xcassets */; };
 		A410D48F22733BC3000A0FEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A410D48D22733BC3000A0FEF /* LaunchScreen.storyboard */; };
+		A410D49722733F74000A0FEF /* CellHeroTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A410D49622733F74000A0FEF /* CellHeroTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A410D48B22733BC3000A0FEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A410D48E22733BC3000A0FEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A410D49022733BC3000A0FEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A410D49622733F74000A0FEF /* CellHeroTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellHeroTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A410D48422733BC2000A0FEF /* AppDelegate.swift */,
 				A410D48622733BC2000A0FEF /* ViewController.swift */,
 				A410D48822733BC2000A0FEF /* Main.storyboard */,
+				A410D49622733F74000A0FEF /* CellHeroTableViewCell.swift */,
 				A410D48B22733BC3000A0FEF /* Assets.xcassets */,
 				A410D48D22733BC3000A0FEF /* LaunchScreen.storyboard */,
 				A410D49022733BC3000A0FEF /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				A410D48722733BC2000A0FEF /* ViewController.swift in Sources */,
 				A410D48522733BC2000A0FEF /* AppDelegate.swift in Sources */,
+				A410D49722733F74000A0FEF /* CellHeroTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
